@@ -1,5 +1,5 @@
 context:
-  version: "2.14.0"
+  version: "2.15.0"
 
 package:
   name: mcp-inspector
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@modelcontextprotocol/inspector/-/inspector-${{ version }}.tgz
-  sha256: eeefd17411ab28a239717692b8101366a5fddf9d79b2a2a4d1320b5fba705fd3
+  sha256: cea18749b290e23d8b8b790c8ba79ee19870b398db3d4492d544a61373f697f1
 
 build:
   number: 0
